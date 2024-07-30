@@ -32,13 +32,7 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 This project is licensed under the MIT License.
 
-## Resources Used 📚
-
-- Sound Effect by [Luca Di Alessandro](https://pixabay.com/users/lucadialessandro-25927643/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=180637) from [Pixabay](https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=180637)
-- Sound Effect by [Kuzu](https://pixabay.com/users/alienightmare-42489797/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=203788) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=203788)
-- Sound Effect by [floraphonic](https://pixabay.com/users/floraphonic-38928062/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=189853) from [Pixabay](https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=189853)
-- Sound Effect from [Pixabay](https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=96243)
-- Sound Effect from [Pixabay](https://pixabay.com/sound-effects/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=6779)
-- <div> Icons made by <a href="https://www.flaticon.com/authors/gregor-cresnar" title="Gregor Cresnar"> Gregor Cresnar </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com'</a></div>
-
 ### Thank you very much! 😊
+
+### Owner
+Vadym Biriukov
